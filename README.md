@@ -1,4 +1,5 @@
 Forced Deck Import - Import decks into your game
+
 Hello,
 I love to experiment with decks, but quickly run out of space for decks when i want to keep my staples. So i wrote an Autohotkey script that takes a Textfile and imports it into the game.
 I also asked Ben, who made the Deckbuilder[forcedshowdown.decksforge.com] to implement an Export feature, to save the deck in the right format.
