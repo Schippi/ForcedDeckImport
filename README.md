@@ -6,7 +6,7 @@ I also asked Ben, who made the Deckbuilder[forcedshowdown.decksforge.com] to imp
 
 It sounds a bit complicated at first, but once you set it up its easy ^_^
 * To use it you need Autohotkey installed[autohotkey.com] - make sure you enable the Drag&Drop option
-* download the Script from Dropbox
+* download the AHK-Script from here
 * Start Forced Showdown
 * Drag the Textfile you downloaded from the Deckbuilder onto the .ahk file to start the Import
 * Wait for the Script to execute
